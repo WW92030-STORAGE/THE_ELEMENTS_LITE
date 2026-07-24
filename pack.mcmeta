@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 34,
-    "description": "THE ELEMENTS LITE"
+    "description": "THE ELEMENTS LITE",
+    "min_format": [88, 0],
+    "max_format": [214748364, 0]
   }
 }
